@@ -3,7 +3,7 @@ from pytube import YouTube
 from telebot import TeleBot
 import os
 
-TOKEN = "5354526951:AAGyeny4eMp--CgcZ0cTRgF3DYWSlPQbFbs"
+TOKEN = "" # <<<<<------ your token here
 bot = TeleBot(TOKEN)
 
 
